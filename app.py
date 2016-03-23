@@ -4,7 +4,7 @@ from PyQt5.QtWidgets import QApplication
 from PyQt5.QtQml import QQmlApplicationEngine
 
 
-def login(one, two, three):
+def login(one, two):
     #return True
     loginPage.success()
     #loader = win.findChild(QObject, "pageLoader")
